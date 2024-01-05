@@ -19,4 +19,4 @@ I am learning **Solidity** with [Alyra l'école blockchain](https://www.alyra.fr
 
 ## Github trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=myriamchah&theme=juicyfresh&margin-w=15&margin-h=15&no-bg=true&no-frame=true&rank=-UNKNOWN)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=myriamchah&theme=juicyfresh&margin-w=15&margin-h=15&no-bg=true&no-frame=true&rank=-?)](https://github.com/ryo-ma/github-profile-trophy)
