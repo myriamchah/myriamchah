@@ -10,8 +10,9 @@
 
 ## Current activities
 
-I code projects with Ruby on Rails and React.  
-I am learning **Solidity** with [Alyra l'école blockchain](https://www.alyra.fr/)
+Just finished my **Solidity** training with [Alyra l'école blockchain](https://www.alyra.fr/)    
+Now perfecting my skills with [Node guardians](https://nodeguardians.io/) quests        
+Also contributing to projects in **React**    
 
 ## Tech stack
 
